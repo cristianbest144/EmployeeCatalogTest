@@ -1,0 +1,14 @@
+D:\TRABAJO\PROYECTO PRUEBA TECNICA\EmployeeCatalogApi\EmployeeCatalog.Backend.Data\bin\Debug\net8.0\EmployeeCatalog.Backend.Data.deps.json
+D:\TRABAJO\PROYECTO PRUEBA TECNICA\EmployeeCatalogApi\EmployeeCatalog.Backend.Data\bin\Debug\net8.0\EmployeeCatalog.Backend.Data.runtimeconfig.json
+D:\TRABAJO\PROYECTO PRUEBA TECNICA\EmployeeCatalogApi\EmployeeCatalog.Backend.Data\bin\Debug\net8.0\EmployeeCatalog.Backend.Data.dll
+D:\TRABAJO\PROYECTO PRUEBA TECNICA\EmployeeCatalogApi\EmployeeCatalog.Backend.Data\bin\Debug\net8.0\EmployeeCatalog.Backend.Data.pdb
+D:\TRABAJO\PROYECTO PRUEBA TECNICA\EmployeeCatalogApi\EmployeeCatalog.Backend.Data\obj\Debug\net8.0\EmployeeCatalog.Backend.Data.csproj.AssemblyReference.cache
+D:\TRABAJO\PROYECTO PRUEBA TECNICA\EmployeeCatalogApi\EmployeeCatalog.Backend.Data\obj\Debug\net8.0\EmployeeCatalog.Backend.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\TRABAJO\PROYECTO PRUEBA TECNICA\EmployeeCatalogApi\EmployeeCatalog.Backend.Data\obj\Debug\net8.0\EmployeeCatalog.Backend.Data.AssemblyInfoInputs.cache
+D:\TRABAJO\PROYECTO PRUEBA TECNICA\EmployeeCatalogApi\EmployeeCatalog.Backend.Data\obj\Debug\net8.0\EmployeeCatalog.Backend.Data.AssemblyInfo.cs
+D:\TRABAJO\PROYECTO PRUEBA TECNICA\EmployeeCatalogApi\EmployeeCatalog.Backend.Data\obj\Debug\net8.0\EmployeeCatalog.Backend.Data.csproj.CoreCompileInputs.cache
+D:\TRABAJO\PROYECTO PRUEBA TECNICA\EmployeeCatalogApi\EmployeeCatalog.Backend.Data\obj\Debug\net8.0\EmployeeCatalog.Backend.Data.dll
+D:\TRABAJO\PROYECTO PRUEBA TECNICA\EmployeeCatalogApi\EmployeeCatalog.Backend.Data\obj\Debug\net8.0\refint\EmployeeCatalog.Backend.Data.dll
+D:\TRABAJO\PROYECTO PRUEBA TECNICA\EmployeeCatalogApi\EmployeeCatalog.Backend.Data\obj\Debug\net8.0\EmployeeCatalog.Backend.Data.pdb
+D:\TRABAJO\PROYECTO PRUEBA TECNICA\EmployeeCatalogApi\EmployeeCatalog.Backend.Data\obj\Debug\net8.0\EmployeeCatalog.Backend.Data.genruntimeconfig.cache
+D:\TRABAJO\PROYECTO PRUEBA TECNICA\EmployeeCatalogApi\EmployeeCatalog.Backend.Data\obj\Debug\net8.0\ref\EmployeeCatalog.Backend.Data.dll

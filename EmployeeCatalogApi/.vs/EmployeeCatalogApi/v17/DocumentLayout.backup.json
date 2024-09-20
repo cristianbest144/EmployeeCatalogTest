@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TRABAJO\\PROYECTO PRUEBA TECNICA\\EmployeeCatalogApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E76488-C356-4AF7-80F3-FE005101D099}|EmployeeCatalogApi\\EmployeeCatalogApi.csproj|d:\\trabajo\\proyecto prueba tecnica\\employeecatalogapi\\employeecatalogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E76488-C356-4AF7-80F3-FE005101D099}|EmployeeCatalogApi\\EmployeeCatalogApi.csproj|solutionrelative:employeecatalogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D4F3F3-4E5B-4DBB-B4F3-971FB0D8AD9E}|EmployeeCatalog.Backend.Data\\EmployeeCatalog.Backend.Data.csproj|d:\\trabajo\\proyecto prueba tecnica\\employeecatalogapi\\employeecatalog.backend.data\\repository\\imp\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D4F3F3-4E5B-4DBB-B4F3-971FB0D8AD9E}|EmployeeCatalog.Backend.Data\\EmployeeCatalog.Backend.Data.csproj|solutionrelative:employeecatalog.backend.data\\repository\\imp\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D4F3F3-4E5B-4DBB-B4F3-971FB0D8AD9E}|EmployeeCatalog.Backend.Data\\EmployeeCatalog.Backend.Data.csproj|d:\\trabajo\\proyecto prueba tecnica\\employeecatalogapi\\employeecatalog.backend.data\\repository\\imp\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D4F3F3-4E5B-4DBB-B4F3-971FB0D8AD9E}|EmployeeCatalog.Backend.Data\\EmployeeCatalog.Backend.Data.csproj|solutionrelative:employeecatalog.backend.data\\repository\\imp\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7C8AAE-B742-4A9F-921B-E5830DFE6679}|EmployeeCatalog.Backend.Domain\\EmployeeCatalog.Backend.Domain.csproj|d:\\trabajo\\proyecto prueba tecnica\\employeecatalogapi\\employeecatalog.backend.domain\\service\\imp\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7C8AAE-B742-4A9F-921B-E5830DFE6679}|EmployeeCatalog.Backend.Domain\\EmployeeCatalog.Backend.Domain.csproj|solutionrelative:employeecatalog.backend.domain\\service\\imp\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E76488-C356-4AF7-80F3-FE005101D099}|EmployeeCatalogApi\\EmployeeCatalogApi.csproj|d:\\trabajo\\proyecto prueba tecnica\\employeecatalogapi\\employeecatalogapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E76488-C356-4AF7-80F3-FE005101D099}|EmployeeCatalogApi\\EmployeeCatalogApi.csproj|solutionrelative:employeecatalogapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E76488-C356-4AF7-80F3-FE005101D099}|EmployeeCatalogApi\\EmployeeCatalogApi.csproj|d:\\trabajo\\proyecto prueba tecnica\\employeecatalogapi\\employeecatalogapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E76488-C356-4AF7-80F3-FE005101D099}|EmployeeCatalogApi\\EmployeeCatalogApi.csproj|solutionrelative:employeecatalogapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D4F3F3-4E5B-4DBB-B4F3-971FB0D8AD9E}|EmployeeCatalog.Backend.Data\\EmployeeCatalog.Backend.Data.csproj|d:\\trabajo\\proyecto prueba tecnica\\employeecatalogapi\\employeecatalog.backend.data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D4F3F3-4E5B-4DBB-B4F3-971FB0D8AD9E}|EmployeeCatalog.Backend.Data\\EmployeeCatalog.Backend.Data.csproj|solutionrelative:employeecatalog.backend.data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TRABAJO\\PROYECTO PRUEBA TECNICA\\EmployeeCatalogApi\\EmployeeCatalogApi\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeCatalogApi\\Program.cs",
+              "ToolTip": "D:\\TRABAJO\\PROYECTO PRUEBA TECNICA\\EmployeeCatalogApi\\EmployeeCatalogApi\\Program.cs",
+              "RelativeToolTip": "EmployeeCatalogApi\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T14:52:31.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\TRABAJO\\PROYECTO PRUEBA TECNICA\\EmployeeCatalogApi\\EmployeeCatalogApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "EmployeeCatalogApi\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\TRABAJO\\PROYECTO PRUEBA TECNICA\\EmployeeCatalogApi\\EmployeeCatalogApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "EmployeeCatalogApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAiwEYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T03:37:51.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\TRABAJO\\PROYECTO PRUEBA TECNICA\\EmployeeCatalogApi\\EmployeeCatalogApi\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeCatalogApi\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\TRABAJO\\PROYECTO PRUEBA TECNICA\\EmployeeCatalogApi\\EmployeeCatalogApi\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeCatalogApi\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAA0wFYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T02:20:16.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\TRABAJO\\PROYECTO PRUEBA TECNICA\\EmployeeCatalogApi\\EmployeeCatalog.Backend.Data\\Repository\\Imp\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeCatalog.Backend.Data\\Repository\\Imp\\EmployeeRepository.cs",
+              "ToolTip": "D:\\TRABAJO\\PROYECTO PRUEBA TECNICA\\EmployeeCatalogApi\\EmployeeCatalog.Backend.Data\\Repository\\Imp\\EmployeeRepository.cs",
+              "RelativeToolTip": "EmployeeCatalog.Backend.Data\\Repository\\Imp\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswBoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T02:15:34.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\TRABAJO\\PROYECTO PRUEBA TECNICA\\EmployeeCatalogApi\\EmployeeCatalog.Backend.Domain\\Service\\Imp\\UserService.cs",
+              "RelativeDocumentMoniker": "EmployeeCatalog.Backend.Domain\\Service\\Imp\\UserService.cs",
+              "ToolTip": "D:\\TRABAJO\\PROYECTO PRUEBA TECNICA\\EmployeeCatalogApi\\EmployeeCatalog.Backend.Domain\\Service\\Imp\\UserService.cs",
+              "RelativeToolTip": "EmployeeCatalog.Backend.Domain\\Service\\Imp\\UserService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwCQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T02:09:23.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\TRABAJO\\PROYECTO PRUEBA TECNICA\\EmployeeCatalogApi\\EmployeeCatalog.Backend.Data\\Repository\\Imp\\UserRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeCatalog.Backend.Data\\Repository\\Imp\\UserRepository.cs",
+              "ToolTip": "D:\\TRABAJO\\PROYECTO PRUEBA TECNICA\\EmployeeCatalogApi\\EmployeeCatalog.Backend.Data\\Repository\\Imp\\UserRepository.cs",
+              "RelativeToolTip": "EmployeeCatalog.Backend.Data\\Repository\\Imp\\UserRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T01:56:29.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\TRABAJO\\PROYECTO PRUEBA TECNICA\\EmployeeCatalogApi\\EmployeeCatalog.Backend.Data\\Models\\User.cs",
+              "RelativeDocumentMoniker": "EmployeeCatalog.Backend.Data\\Models\\User.cs",
+              "ToolTip": "D:\\TRABAJO\\PROYECTO PRUEBA TECNICA\\EmployeeCatalogApi\\EmployeeCatalog.Backend.Data\\Models\\User.cs",
+              "RelativeToolTip": "EmployeeCatalog.Backend.Data\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T01:55:32.643Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
