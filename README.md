@@ -1,7 +1,9 @@
 Employee Catalog Management System
+
 Este es un sistema de gestión de empleados que permite la creación, edición, eliminación y consulta de empleados, con roles de usuario diferenciados para Admin y User. El proyecto está desarrollado con Angular en el frontend y .NET Core en el backend, con autenticación basada en JWT.
 
 Características
+
 Autenticación y autorización usando JWT.
 Roles de usuario:
 Admin: Puede crear, editar, eliminar empleados.
