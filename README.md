@@ -17,7 +17,9 @@ Angular CLI 18.2.4
 .NET Core SDK 3.1 o superior
 SQL Server (para la base de datos)
 Git (opcional, para clonar el proyecto)
+
 Instrucciones de instalación y compilación
+
 1. Clonar el repositorio
 bash
 Copiar código
@@ -107,5 +109,6 @@ bash
 Copiar código
 dotnet ef migrations add NombreDeLaMigracion
 dotnet ef database update
+
 Autor
 Cristian Hernandez
